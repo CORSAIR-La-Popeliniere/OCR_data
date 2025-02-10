@@ -1,0 +1,178 @@
+authors:
+- name: Mélinda
+  roles:
+  - transcriber
+  - aligner
+  - quality-control
+  - digitization
+  surname: Fleury
+- name: Simon
+  roles:
+  - quality-control
+  - support
+  surname: Gabay
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - u
+  - r
+  - a
+  - n
+  - i
+  - t
+  - o
+  - l
+  - s
+  - ſ
+  - d
+  - c
+  - p
+  - m
+  - ','
+  - q
+  - f
+  - g
+  - ’
+  - .
+  - y
+  - '&'
+  - h
+  - b
+  - v
+  - ¬
+  - ́
+  - ̀
+  - x
+  - C
+  - ̃
+  - ':'
+  - z
+  - E
+  - R
+  - A
+  - P
+  - M
+  - I
+  - L
+  - S
+  - D
+  - '-'
+  - V
+  - F
+  - G
+  - '1'
+  - "'"
+  - B
+  - T
+  - N
+  - O
+  - ̧
+  - '2'
+  - ̈
+  - '3'
+  - H
+  - '5'
+  - '4'
+  - )
+  - (
+  - '6'
+  - j
+  - '7'
+  - '0'
+  - '8'
+  - '9'
+  - Q
+  - X
+  - œ
+  - '?'
+  - ι
+  - ε
+  - ς
+  - α
+  - Y
+  - Z
+  - ο
+  - ;
+  - η
+  - σ
+  - ß
+  - '!'
+  - τ
+  - ̂
+  - æ
+  - '*'
+  - ν
+  - k
+  - ρ
+  - υ
+  - W
+  - ꝰ
+  - π
+  - U
+  - K
+  - δ
+  - κ
+  - „
+  - ·
+  - ω
+  - θ
+  - 
+  - J
+  - λ
+  - ͂
+  - μ
+  - Ι
+  - ¶
+  - Τ
+  - ꝗ
+  - ̓
+  - γ
+  - ᗅ
+  - Ε
+  - ꝑ
+  - Μ
+  - ̨
+  - '"'
+  - ͅ
+  - ꝯ
+  - Æ
+  - Β
+  mode: NFD
+description: >-
+  Ce dépôt regroupe les données du corpus principal du projet de recherche en
+  Histoire des idées politiques nommé CORSAIR et soutenu par le Fonds
+  National Suisse. 
+format: Alto-XML
+hands:
+  count: unknown
+  precision: exact
+institutions: []
+language:
+- fra
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: Archéo-pol - La bibliothèque des monarchomaques
+project-website: https://www.unige.ch/ihr/fr/accueil/archeo-pol/
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: mainly-typed
+time:
+  notAfter: '1600'
+  notBefore: '1550'
+title: 'CORSAIR: OCR dataset'
+url: https://github.com/ARCHEO-POL/dataset_corpus_principal
+volume:
+- count: 563184
+  metric: characters
+- count: 287
+  metric: files
+- count: 14167
+  metric: lines
+- count: 800
+  metric: pages
+- count: 1836
+  metric: regions
