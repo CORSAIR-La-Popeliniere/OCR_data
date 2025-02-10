@@ -4,13 +4,15 @@ authors:
   - transcriber
   - aligner
   - quality-control
-  - digitization
   surname: Fleury
 - name: Simon
   roles:
   - quality-control
   - support
   surname: Gabay
+-name: Robin
+- support
+surname: Cherix
 automatically-aligned: false
 characters:
   members:
@@ -140,31 +142,32 @@ characters:
   - Β
   mode: NFD
 description: >-
-  Ce dépôt regroupe les données du corpus principal du projet de recherche en
-  Histoire des idées politiques nommé CORSAIR et soutenu par le Fonds
-  National Suisse. 
+  Ce dépôt regroupe les données du corpus du projet de recherche CORSAIR,
+  créé par Mélinda Fleury et financé par le Fonds national de la recherche.
+  Pour l'instant le dépôt contient des pages choisies au hasard parmi
+  un corpus de textes historiques français du 16e siècle.
+  Il contiendra à termes toutes ces pages.
 format: Alto-XML
 hands:
   count: unknown
   precision: exact
-institutions: []
+institutions: [Université de Genève]
 language:
 - fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: Archéo-pol - La bibliothèque des monarchomaques
-project-website: https://www.unige.ch/ihr/fr/accueil/archeo-pol/
+project-name: CORSAIR
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
 script-type: mainly-typed
 time:
-  notAfter: '1600'
-  notBefore: '1550'
+  notAfter: '1599'
+  notBefore: '1562'
 title: 'CORSAIR: OCR dataset'
-url: https://github.com/ARCHEO-POL/dataset_corpus_principal
+url: https://github.com/CORSAIR-La-Popeliniere/segmentation_16thcentury_french_historiography?tab=readme-ov-file#readme
 volume:
 - count: 563184
   metric: characters
