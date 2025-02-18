@@ -44,27 +44,87 @@
                     WC="0.9969623446464538"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1908"
-                   VPOS="483"
-                   WIDTH="1444"
-                   HEIGHT="130"
-                   ID="block_1"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="3352 483 3352 613 1908 613 1908 483"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT10"
-                    BASELINE="1903 576 3332 552" 
-                    HPOS="1900"
-                    VPOS="439"
-                    WIDTH="1432"
-                    HEIGHT="172">
-            <Shape><Polygon POINTS="1903 611 3328 595 3332 552 3321 443 3079 471 2885 471 2865 447 2857 443 2857 439 2853 439 2850 439 2846 439 2842 439 2803 451 2752 463 2698 451 2651 443 2647 443 2643 443 2624 451 2596 467 2519 455 2468 447 2464 447 2460 447 2433 455 2363 478 2285 459 2254 451 2250 451 2149 451 2145 451 2141 451 2137 451 2121 463 2094 478 2059 463 2040 455 2036 455 2032 455 2028 455 2012 463 1989 474 1900 467 1903 576"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="1900"
-                    VPOS="439"
-                    WIDTH="1432"
-                    HEIGHT="172"
-                    WC="0.9789449055989583"></String>
+        <TextBlock HPOS="566"
+                   VPOS="634"
+                   WIDTH="316"
+                   HEIGHT="424"
+                   ID="block_3"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="882 634 882 1058 566 1058 566 634"/></Shape>
+          <TextLine ID="line_5"
+                    TAGREFS="LT8"
+                    BASELINE="595 681 868 680" 
+                    HPOS="591"
+                    VPOS="607"
+                    WIDTH="277"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="595 681 591 607 867 607 868 721 595 720"/></Shape>
+	    <String CONTENT="Porris de tant au païs Bourguignon (poſſedé par Lothaire apres la mort de ſon frere Charles"
+                    HPOS="591"
+                    VPOS="607"
+                    WIDTH="277"
+                    HEIGHT="114"
+                    WC="0.9903288150346408"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT8"
+                    BASELINE="587 759 868 777" 
+                    HPOS="587"
+                    VPOS="692"
+                    WIDTH="286"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="587 809 587 692 873 694 866 810"/></Shape>
+	    <String CONTENT="Chauue Roy de Bourgoigne) qu’és terres de la cõtribution du Royaume de Lorraine: tellemẽt"
+                    HPOS="587"
+                    VPOS="692"
+                    WIDTH="286"
+                    HEIGHT="118"
+                    WC="0.9858025208763455"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT8"
+                    BASELINE="587 836 844 852" 
+                    HPOS="584"
+                    VPOS="786"
+                    WIDTH="260"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="587 836 584 891 837 891 844 852 844 786 587 786 587 836"/></Shape>
+	    <String CONTENT="4u Royal"
+                    HPOS="584"
+                    VPOS="786"
+                    WIDTH="260"
+                    HEIGHT="105"
+                    WC="0.9588026478886604"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT8"
+                    BASELINE="584 914 841 922" 
+                    HPOS="580"
+                    VPOS="860"
+                    WIDTH="261"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="584 914 580 969 833 988 841 922 837 860 584 860 584 914"/></Shape>
+	    <String CONTENT="me de Lon"
+                    HPOS="580"
+                    VPOS="860"
+                    WIDTH="261"
+                    HEIGHT="128"
+                    WC="0.9495984514554342"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT8"
+                    BASELINE="584 1000 767 1008" 
+                    HPOS="580"
+                    VPOS="942"
+                    WIDTH="187"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="584 1000 580 1051 669 1086 673 1086 677 1086 681 1086 763 1062 767 1008 767 953 584 942 584 1000"/></Shape>
+	    <String CONTENT="raine."
+                    HPOS="580"
+                    VPOS="942"
+                    WIDTH="187"
+                    HEIGHT="144"
+                    WC="0.9818269113699595"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="865"
@@ -877,112 +937,6 @@
                     HEIGHT="203"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3631"
-                   VPOS="5946"
-                   WIDTH="206"
-                   HEIGHT="124"
-                   ID="block_9"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3837 5946 3837 6070 3631 6070 3631 5946"/></Shape>
-          <TextLine ID="line_71"
-                    TAGREFS="LT8"
-                    BASELINE="3648 6018 3831 6010" 
-                    HPOS="3644"
-                    VPOS="5936"
-                    WIDTH="187"
-                    HEIGHT="171">
-            <Shape><Polygon POINTS="3648 6018 3652 6107 3831 6072 3831 6010 3819 5936 3644 5948 3648 6018"/></Shape>
-	    <String CONTENT="dudit"
-                    HPOS="3644"
-                    VPOS="5936"
-                    WIDTH="187"
-                    HEIGHT="171"
-                    WC="0.9421791553497314"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="566"
-                   VPOS="634"
-                   WIDTH="316"
-                   HEIGHT="424"
-                   ID="block_3"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="882 634 882 1058 566 1058 566 634"/></Shape>
-          <TextLine ID="line_5"
-                    TAGREFS="LT8"
-                    BASELINE="595 681 868 680" 
-                    HPOS="591"
-                    VPOS="607"
-                    WIDTH="277"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="595 681 591 607 867 607 868 721 595 720"/></Shape>
-	    <String CONTENT="Porris de tant au païs Bourguignon (poſſedé par Lothaire apres la mort de ſon frere Charles"
-                    HPOS="591"
-                    VPOS="607"
-                    WIDTH="277"
-                    HEIGHT="114"
-                    WC="0.9903288150346408"></String>
-          </TextLine>
-          <TextLine ID="line_6"
-                    TAGREFS="LT8"
-                    BASELINE="587 759 868 777" 
-                    HPOS="587"
-                    VPOS="692"
-                    WIDTH="286"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="587 809 587 692 873 694 866 810"/></Shape>
-	    <String CONTENT="Chauue Roy de Bourgoigne) qu’és terres de la cõtribution du Royaume de Lorraine: tellemẽt"
-                    HPOS="587"
-                    VPOS="692"
-                    WIDTH="286"
-                    HEIGHT="118"
-                    WC="0.9858025208763455"></String>
-          </TextLine>
-          <TextLine ID="line_2"
-                    TAGREFS="LT8"
-                    BASELINE="587 836 844 852" 
-                    HPOS="584"
-                    VPOS="786"
-                    WIDTH="260"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="587 836 584 891 837 891 844 852 844 786 587 786 587 836"/></Shape>
-	    <String CONTENT="4u Royal"
-                    HPOS="584"
-                    VPOS="786"
-                    WIDTH="260"
-                    HEIGHT="105"
-                    WC="0.9588026478886604"></String>
-          </TextLine>
-          <TextLine ID="line_3"
-                    TAGREFS="LT8"
-                    BASELINE="584 914 841 922" 
-                    HPOS="580"
-                    VPOS="860"
-                    WIDTH="261"
-                    HEIGHT="128">
-            <Shape><Polygon POINTS="584 914 580 969 833 988 841 922 837 860 584 860 584 914"/></Shape>
-	    <String CONTENT="me de Lon"
-                    HPOS="580"
-                    VPOS="860"
-                    WIDTH="261"
-                    HEIGHT="128"
-                    WC="0.9495984514554342"></String>
-          </TextLine>
-          <TextLine ID="line_4"
-                    TAGREFS="LT8"
-                    BASELINE="584 1000 767 1008" 
-                    HPOS="580"
-                    VPOS="942"
-                    WIDTH="187"
-                    HEIGHT="144">
-            <Shape><Polygon POINTS="584 1000 580 1051 669 1086 673 1086 677 1086 681 1086 763 1062 767 1008 767 953 584 942 584 1000"/></Shape>
-	    <String CONTENT="raine."
-                    HPOS="580"
-                    VPOS="942"
-                    WIDTH="187"
-                    HEIGHT="144"
-                    WC="0.9818269113699595"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="564"
                    VPOS="1784"
                    WIDTH="304"
@@ -1051,13 +1005,36 @@
                     WC="0.9951663731218694"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="578"
-                   VPOS="3061"
-                   WIDTH="344"
-                   HEIGHT="746"
-                   ID="block_6"
+        <TextBlock HPOS="1908"
+                   VPOS="483"
+                   WIDTH="1444"
+                   HEIGHT="130"
+                   ID="block_1"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3352 483 3352 613 1908 613 1908 483"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="1903 576 3332 552" 
+                    HPOS="1900"
+                    VPOS="439"
+                    WIDTH="1432"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="1903 611 3328 595 3332 552 3321 443 3079 471 2885 471 2865 447 2857 443 2857 439 2853 439 2850 439 2846 439 2842 439 2803 451 2752 463 2698 451 2651 443 2647 443 2643 443 2624 451 2596 467 2519 455 2468 447 2464 447 2460 447 2433 455 2363 478 2285 459 2254 451 2250 451 2149 451 2145 451 2141 451 2137 451 2121 463 2094 478 2059 463 2040 455 2036 455 2032 455 2028 455 2012 463 1989 474 1900 467 1903 576"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="1900"
+                    VPOS="439"
+                    WIDTH="1432"
+                    HEIGHT="172"
+                    WC="0.9789449055989583"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="560"
+                   VPOS="2279"
+                   WIDTH="355"
+                   HEIGHT="821"
+                   ID="eSc_textblock_d0fcb442"
                    TAGREFS="BT2523">
-          <Shape><Polygon POINTS="922 3061 903 3807 578 3807 583 3061"/></Shape>
+          <Shape><Polygon POINTS="560 2279 583 3100 915 3072 901 2279"/></Shape>
           <TextLine ID="line_23"
                     TAGREFS="LT8"
                     BASELINE="630 2378 896 2389" 
@@ -1193,6 +1170,14 @@
                     HEIGHT="116"
                     WC="0.999444842338562"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="578"
+                   VPOS="3061"
+                   WIDTH="344"
+                   HEIGHT="746"
+                   ID="block_6"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="922 3061 903 3807 578 3807 583 3061"/></Shape>
           <TextLine ID="line_30"
                     TAGREFS="LT8"
                     BASELINE="646 3118 848 3110 882 3098" 
@@ -1705,13 +1690,28 @@
                     WC="0.9610008852383525"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="560"
-                   VPOS="2279"
-                   WIDTH="355"
-                   HEIGHT="821"
-                   ID="eSc_textblock_d0fcb442"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="560 2279 583 3100 915 3072 901 2279"/></Shape>
+        <TextBlock HPOS="3631"
+                   VPOS="5946"
+                   WIDTH="206"
+                   HEIGHT="124"
+                   ID="block_9"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3837 5946 3837 6070 3631 6070 3631 5946"/></Shape>
+          <TextLine ID="line_71"
+                    TAGREFS="LT8"
+                    BASELINE="3648 6018 3831 6010" 
+                    HPOS="3644"
+                    VPOS="5936"
+                    WIDTH="187"
+                    HEIGHT="171">
+            <Shape><Polygon POINTS="3648 6018 3652 6107 3831 6072 3831 6010 3819 5936 3644 5948 3648 6018"/></Shape>
+	    <String CONTENT="dudit"
+                    HPOS="3644"
+                    VPOS="5936"
+                    WIDTH="187"
+                    HEIGHT="171"
+                    WC="0.9421791553497314"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -44,27 +44,57 @@
                     WC="0.998992498431887"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1686"
-                   VPOS="510"
-                   WIDTH="1315"
-                   HEIGHT="125"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="3001 510 3001 635 1686 635 1686 510"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT10"
-                    BASELINE="1646 590 2989 590" 
-                    HPOS="1646"
-                    VPOS="440"
-                    WIDTH="1343"
-                    HEIGHT="205">
-            <Shape><Polygon POINTS="1646 617 1764 641 1768 641 1898 625 1929 621 2051 621 2059 625 2071 637 2071 641 2075 641 2079 641 2083 641 2087 641 2091 641 2111 629 2122 621 2146 629 2193 641 2197 641 2201 645 2378 645 2378 641 2382 641 2386 641 2394 633 2410 621 2985 641 2989 590 2985 440 2835 444 2831 444 2827 444 2760 488 2686 448 2662 440 2658 440 2536 440 2532 440 2528 440 2524 440 2504 456 2465 484 2288 464 2154 452 2150 452 2146 452 2142 452 2142 456 2122 472 2107 488 2075 472 2044 460 2040 460 2036 460 2032 460 1965 476 1921 488 1902 480 1847 456 1843 456 1839 456 1835 456 1831 456 1799 484 1792 492 1646 492 1646 590"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="1646"
-                    VPOS="440"
-                    WIDTH="1343"
-                    HEIGHT="205"
-                    WC="0.9997781872749328"></String>
+        <TextBlock HPOS="528"
+                   VPOS="637"
+                   WIDTH="311"
+                   HEIGHT="265"
+                   ID="block_2"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="839 637 839 747 833 747 833 821 839 821 839 902 528 902 528 637"/></Shape>
+          <TextLine ID="line_2"
+                    TAGREFS="LT8"
+                    BASELINE="527 688 733 690 842 691" 
+                    HPOS="520"
+                    VPOS="590"
+                    WIDTH="319"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="821 590 526 602 526 684 520 738 833 732 839 690 827 608 821 590"/></Shape>
+	    <String CONTENT="Loüãges de uers ſes ſuiets, lefquels il gouuernoit auec vne grande douceur &amp; courtoiſie: ſe mon¬"
+                    HPOS="520"
+                    VPOS="590"
+                    WIDTH="319"
+                    HEIGHT="148"
+                    WC="0.9866208099589056"></String>
+          </TextLine>
+          <TextLine ID="line_3"
+                    TAGREFS="LT8"
+                    BASELINE="535 771 819 794" 
+                    HPOS="520"
+                    VPOS="696"
+                    WIDTH="295"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="531 767 520 820 803 832 815 791 815 720 531 696 531 767"/></Shape>
+	    <String CONTENT="ᗅLouys le ſtrant clement aux delinquans &amp; pecheurs, ennemy des vicieux qu’il chaſtioit ſelon"
+                    HPOS="520"
+                    VPOS="696"
+                    WIDTH="295"
+                    HEIGHT="136"
+                    WC="0.9861496169488508"></String>
+          </TextLine>
+          <TextLine ID="line_49"
+                    TAGREFS="LT8"
+                    BASELINE="531 854 732 862" 
+                    HPOS="527"
+                    VPOS="787"
+                    WIDTH="205"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="701 787 531 795 531 854 527 921 728 917 732 862 728 791"/></Shape>
+	    <String CONTENT="Ieune."
+                    HPOS="527"
+                    VPOS="787"
+                    WIDTH="205"
+                    HEIGHT="134"
+                    WC="0.9902872641881307"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="827"
@@ -764,36 +794,37 @@
                     HEIGHT="208"
                     WC="0.981198650598526"></String>
           </TextLine>
-          <TextLine ID="line_2"
-                    TAGREFS="LT8"
-                    BASELINE="527 688 733 690 842 691" 
-                    HPOS="520"
-                    VPOS="590"
-                    WIDTH="319"
-                    HEIGHT="148">
-            <Shape><Polygon POINTS="821 590 526 602 526 684 520 738 833 732 839 690 827 608 821 590"/></Shape>
-	    <String CONTENT="Loüãges de uers ſes ſuiets, lefquels il gouuernoit auec vne grande douceur &amp; courtoiſie: ſe mon¬"
-                    HPOS="520"
-                    VPOS="590"
-                    WIDTH="319"
-                    HEIGHT="148"
-                    WC="0.9866208099589056"></String>
+        </TextBlock>
+        <TextBlock HPOS="1686"
+                   VPOS="510"
+                   WIDTH="1315"
+                   HEIGHT="125"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3001 510 3001 635 1686 635 1686 510"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="1646 590 2989 590" 
+                    HPOS="1646"
+                    VPOS="440"
+                    WIDTH="1343"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="1646 617 1764 641 1768 641 1898 625 1929 621 2051 621 2059 625 2071 637 2071 641 2075 641 2079 641 2083 641 2087 641 2091 641 2111 629 2122 621 2146 629 2193 641 2197 641 2201 645 2378 645 2378 641 2382 641 2386 641 2394 633 2410 621 2985 641 2989 590 2985 440 2835 444 2831 444 2827 444 2760 488 2686 448 2662 440 2658 440 2536 440 2532 440 2528 440 2524 440 2504 456 2465 484 2288 464 2154 452 2150 452 2146 452 2142 452 2142 456 2122 472 2107 488 2075 472 2044 460 2040 460 2036 460 2032 460 1965 476 1921 488 1902 480 1847 456 1843 456 1839 456 1835 456 1831 456 1799 484 1792 492 1646 492 1646 590"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="1646"
+                    VPOS="440"
+                    WIDTH="1343"
+                    HEIGHT="205"
+                    WC="0.9997781872749328"></String>
           </TextLine>
-          <TextLine ID="line_3"
-                    TAGREFS="LT8"
-                    BASELINE="535 771 819 794" 
-                    HPOS="520"
-                    VPOS="696"
-                    WIDTH="295"
-                    HEIGHT="136">
-            <Shape><Polygon POINTS="531 767 520 820 803 832 815 791 815 720 531 696 531 767"/></Shape>
-	    <String CONTENT="ᗅLouys le ſtrant clement aux delinquans &amp; pecheurs, ennemy des vicieux qu’il chaſtioit ſelon"
-                    HPOS="520"
-                    VPOS="696"
-                    WIDTH="295"
-                    HEIGHT="136"
-                    WC="0.9861496169488508"></String>
-          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="490"
+                   VPOS="2008"
+                   WIDTH="368"
+                   HEIGHT="393"
+                   ID="eSc_textblock_98188ec2"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="490 2008 499 2401 853 2387 858 2008"/></Shape>
           <TextLine ID="line_16"
                     TAGREFS="LT8"
                     BASELINE="515 2105 833 2082" 
@@ -839,6 +870,29 @@
                     HEIGHT="142"
                     WC="0.9856605548411608"></String>
           </TextLine>
+          <TextLine ID="line_50"
+                    TAGREFS="LT8"
+                    BASELINE="515 2357 752 2357" 
+                    HPOS="515"
+                    VPOS="2306"
+                    WIDTH="237"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="515 2357 515 2408 752 2381 752 2357 752 2306 515 2306 515 2357"/></Shape>
+	    <String CONTENT="ch.4."
+                    HPOS="515"
+                    VPOS="2306"
+                    WIDTH="237"
+                    HEIGHT="102"
+                    WC="0.9996282815933227"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="495"
+                   VPOS="2377"
+                   WIDTH="340"
+                   HEIGHT="359"
+                   ID="eSc_textblock_b34e55af"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="495 2736 495 2377 835 2377 835 2736"/></Shape>
           <TextLine ID="line_20"
                     TAGREFS="LT8"
                     BASELINE="519 2436 842 2439" 
@@ -869,6 +923,44 @@
                     HEIGHT="112"
                     WC="0.9886804742388206"></String>
           </TextLine>
+          <TextLine ID="line_51"
+                    TAGREFS="LT8"
+                    BASELINE="519 2605 811 2597" 
+                    HPOS="515"
+                    VPOS="2550"
+                    WIDTH="296"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="519 2605 519 2637 807 2660 811 2597 803 2550 515 2550 519 2605"/></Shape>
+	    <String CONTENT="nẽt à Leuy."
+                    HPOS="515"
+                    VPOS="2550"
+                    WIDTH="296"
+                    HEIGHT="110"
+                    WC="0.973092794418335"></String>
+          </TextLine>
+          <TextLine ID="line_52"
+                    TAGREFS="LT8"
+                    BASELINE="515 2692 771 2676" 
+                    HPOS="512"
+                    VPOS="2613"
+                    WIDTH="259"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="515 2692 515 2747 771 2731 771 2676 764 2621 555 2613 551 2613 547 2613 512 2629 515 2692"/></Shape>
+	    <String CONTENT="le Ieune."
+                    HPOS="512"
+                    VPOS="2613"
+                    WIDTH="259"
+                    HEIGHT="134"
+                    WC="0.9953550630145602"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="495"
+                   VPOS="2727"
+                   WIDTH="345"
+                   HEIGHT="428"
+                   ID="block_3"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="840 2731 840 3155 495 3155 504 2727"/></Shape>
           <TextLine ID="line_23"
                     TAGREFS="LT8"
                     BASELINE="551 2767 836 2754" 
@@ -899,6 +991,21 @@
                     HEIGHT="153"
                     WC="0.9965655181997566"></String>
           </TextLine>
+          <TextLine ID="line_53"
+                    TAGREFS="LT8"
+                    BASELINE="515 2932 748 2940" 
+                    HPOS="512"
+                    VPOS="2869"
+                    WIDTH="236"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="515 2932 512 2971 618 2991 622 2991 744 2967 748 2940 744 2889 515 2869 515 2932"/></Shape>
+	    <String CONTENT="blaſme"
+                    HPOS="512"
+                    VPOS="2869"
+                    WIDTH="236"
+                    HEIGHT="122"
+                    WC="0.9948526422182719"></String>
+          </TextLine>
           <TextLine ID="line_26"
                     TAGREFS="LT8"
                     BASELINE="515 3018 830 3021" 
@@ -914,6 +1021,29 @@
                     HEIGHT="147"
                     WC="0.9925630117456118"></String>
           </TextLine>
+          <TextLine ID="line_54"
+                    TAGREFS="LT8"
+                    BASELINE="515 3097 724 3109" 
+                    HPOS="512"
+                    VPOS="3042"
+                    WIDTH="212"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="515 3097 512 3168 720 3164 724 3109 724 3042 515 3042 515 3097"/></Shape>
+	    <String CONTENT="Ieune."
+                    HPOS="512"
+                    VPOS="3042"
+                    WIDTH="212"
+                    HEIGHT="126"
+                    WC="0.98904616634051"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="504"
+                   VPOS="3799"
+                   WIDTH="333"
+                   HEIGHT="451"
+                   ID="eSc_textblock_a41a31a8"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="504 3799 504 4250 837 4250 837 3799"/></Shape>
           <TextLine ID="line_34"
                     TAGREFS="LT8"
                     BASELINE="519 3861 771 3853 833 3837" 
@@ -1012,136 +1142,6 @@
                     HEIGHT="236"
                     WC="0.9460438191890717"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="528"
-                   VPOS="637"
-                   WIDTH="311"
-                   HEIGHT="265"
-                   ID="block_2"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="839 637 839 747 833 747 833 821 839 821 839 902 528 902 528 637"/></Shape>
-          <TextLine ID="line_49"
-                    TAGREFS="LT8"
-                    BASELINE="531 854 732 862" 
-                    HPOS="527"
-                    VPOS="787"
-                    WIDTH="205"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="701 787 531 795 531 854 527 921 728 917 732 862 728 791"/></Shape>
-	    <String CONTENT="Ieune."
-                    HPOS="527"
-                    VPOS="787"
-                    WIDTH="205"
-                    HEIGHT="134"
-                    WC="0.9902872641881307"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="495"
-                   VPOS="2727"
-                   WIDTH="345"
-                   HEIGHT="428"
-                   ID="block_3"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="840 2731 840 3155 495 3155 504 2727"/></Shape>
-          <TextLine ID="line_50"
-                    TAGREFS="LT8"
-                    BASELINE="515 2357 752 2357" 
-                    HPOS="515"
-                    VPOS="2306"
-                    WIDTH="237"
-                    HEIGHT="102">
-            <Shape><Polygon POINTS="515 2357 515 2408 752 2381 752 2357 752 2306 515 2306 515 2357"/></Shape>
-	    <String CONTENT="ch.4."
-                    HPOS="515"
-                    VPOS="2306"
-                    WIDTH="237"
-                    HEIGHT="102"
-                    WC="0.9996282815933227"></String>
-          </TextLine>
-          <TextLine ID="line_51"
-                    TAGREFS="LT8"
-                    BASELINE="519 2605 811 2597" 
-                    HPOS="515"
-                    VPOS="2550"
-                    WIDTH="296"
-                    HEIGHT="110">
-            <Shape><Polygon POINTS="519 2605 519 2637 807 2660 811 2597 803 2550 515 2550 519 2605"/></Shape>
-	    <String CONTENT="nẽt à Leuy."
-                    HPOS="515"
-                    VPOS="2550"
-                    WIDTH="296"
-                    HEIGHT="110"
-                    WC="0.973092794418335"></String>
-          </TextLine>
-          <TextLine ID="line_52"
-                    TAGREFS="LT8"
-                    BASELINE="515 2692 771 2676" 
-                    HPOS="512"
-                    VPOS="2613"
-                    WIDTH="259"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="515 2692 515 2747 771 2731 771 2676 764 2621 555 2613 551 2613 547 2613 512 2629 515 2692"/></Shape>
-	    <String CONTENT="le Ieune."
-                    HPOS="512"
-                    VPOS="2613"
-                    WIDTH="259"
-                    HEIGHT="134"
-                    WC="0.9953550630145602"></String>
-          </TextLine>
-          <TextLine ID="line_53"
-                    TAGREFS="LT8"
-                    BASELINE="515 2932 748 2940" 
-                    HPOS="512"
-                    VPOS="2869"
-                    WIDTH="236"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="515 2932 512 2971 618 2991 622 2991 744 2967 748 2940 744 2889 515 2869 515 2932"/></Shape>
-	    <String CONTENT="blaſme"
-                    HPOS="512"
-                    VPOS="2869"
-                    WIDTH="236"
-                    HEIGHT="122"
-                    WC="0.9948526422182719"></String>
-          </TextLine>
-          <TextLine ID="line_54"
-                    TAGREFS="LT8"
-                    BASELINE="515 3097 724 3109" 
-                    HPOS="512"
-                    VPOS="3042"
-                    WIDTH="212"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="515 3097 512 3168 720 3164 724 3109 724 3042 515 3042 515 3097"/></Shape>
-	    <String CONTENT="Ieune."
-                    HPOS="512"
-                    VPOS="3042"
-                    WIDTH="212"
-                    HEIGHT="126"
-                    WC="0.98904616634051"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="504"
-                   VPOS="3799"
-                   WIDTH="333"
-                   HEIGHT="451"
-                   ID="eSc_textblock_a41a31a8"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="504 3799 504 4250 837 4250 837 3799"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="490"
-                   VPOS="2008"
-                   WIDTH="368"
-                   HEIGHT="430"
-                   ID="eSc_textblock_98188ec2"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="490 2008 490 2438 858 2438 858 2008"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="495"
-                   VPOS="2377"
-                   WIDTH="340"
-                   HEIGHT="359"
-                   ID="eSc_textblock_b34e55af"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="495 2736 495 2377 835 2377 835 2736"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

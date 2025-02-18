@@ -44,27 +44,102 @@
                     WC="0.9882165670394898"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1915"
-                   VPOS="465"
-                   WIDTH="1314"
-                   HEIGHT="139"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="3229 465 3229 604 1915 604 1915 465"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT10"
-                    BASELINE="1908 565 3213 545" 
-                    HPOS="1904"
-                    VPOS="394"
-                    WIDTH="1309"
-                    HEIGHT="209">
-            <Shape><Polygon POINTS="1908 603 3209 600 3213 545 3201 394 2679 437 2504 406 2500 406 2497 406 2493 406 2450 437 2311 418 2307 418 2202 441 2179 421 2179 418 2175 418 2171 418 2168 418 2164 418 2160 418 2125 449 1997 449 1904 414 1908 565"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="1904"
-                    VPOS="394"
-                    WIDTH="1309"
-                    HEIGHT="209"
-                    WC="0.9991910735766093"></String>
+        <TextBlock HPOS="599"
+                   VPOS="616"
+                   WIDTH="308"
+                   HEIGHT="493"
+                   ID="block_2"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="907 616 907 1109 599 1109 599 616"/></Shape>
+          <TextLine ID="line_3"
+                    TAGREFS="LT8"
+                    BASELINE="603 665 904 666" 
+                    HPOS="600"
+                    VPOS="592"
+                    WIDTH="304"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="603 665 603 592 904 592 904 701 600 700"/></Shape>
+	    <String CONTENT="Pepin fait Pepin ſon neueu la iouiſſance du païs Aquitanique auec la prerogatiue du nom"
+                    HPOS="600"
+                    VPOS="592"
+                    WIDTH="304"
+                    HEIGHT="109"
+                    WC="0.9721626083959233"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT8"
+                    BASELINE="603 750 899 752" 
+                    HPOS="600"
+                    VPOS="685"
+                    WIDTH="300"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="603 750 603 685 900 688 899 812 894 812 867 793 859 789 824 793 654 812 646 812 600 789"/></Shape>
+	    <String CONTENT="Rοy d&#x27;A- Royal, mais auec condition que Pepin le tiendroit de Charles, &amp; que ſ’il commettoit"
+                    HPOS="600"
+                    VPOS="685"
+                    WIDTH="300"
+                    HEIGHT="127"
+                    WC="0.9959765659726184"></String>
+          </TextLine>
+          <TextLine ID="line_5"
+                    TAGREFS="LT8"
+                    BASELINE="603 836 816 836 904 854" 
+                    HPOS="603"
+                    VPOS="781"
+                    WIDTH="315"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="603 781 918 783 895 898 886 894 603 894"/></Shape>
+	    <String CONTENT="quitaint, felonnie, celle couronne ſeroit reünié, &amp; incorporée à celle de France, ainſi que de¬"
+                    HPOS="603"
+                    VPOS="781"
+                    WIDTH="315"
+                    HEIGHT="117"
+                    WC="0.9834690232469578"></String>
+          </TextLine>
+          <TextLine ID="line_2"
+                    TAGREFS="LT8"
+                    BASELINE="611 921 874 913" 
+                    HPOS="607"
+                    VPOS="855"
+                    WIDTH="267"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="611 921 611 967 739 940 789 956 813 963 816 963 820 963 824 963 874 948 874 913 863 855 607 859 611 921"/></Shape>
+	    <String CONTENT="&amp; aue"
+                    HPOS="607"
+                    VPOS="855"
+                    WIDTH="267"
+                    HEIGHT="112"
+                    WC="0.9964604854583741"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT8"
+                    BASELINE="603 998 859 991 904 983" 
+                    HPOS="603"
+                    VPOS="888"
+                    WIDTH="307"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="603 901 887 888 910 1021 603 1021"/></Shape>
+	    <String CONTENT="auelle con puis il aduint, &amp; où elle demoura long temps, &amp; en ſortant ſi eſt-ce que iamais les"
+                    HPOS="603"
+                    VPOS="888"
+                    WIDTH="307"
+                    HEIGHT="133"
+                    WC="0.976305335446408"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT8"
+                    BASELINE="603 1080 904 1063" 
+                    HPOS="603"
+                    VPOS="994"
+                    WIDTH="303"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="603 1111 603 998 716 998 754 994 900 994 906 1111"/></Shape>
+	    <String CONTENT="ditien. Princes d’Aquitaine ne iouyrent du tiltre de Royauté. Au reſte durant les guerres"
+                    HPOS="603"
+                    VPOS="994"
+                    WIDTH="303"
+                    HEIGHT="117"
+                    WC="0.9973799328009287"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="907"
@@ -863,127 +938,6 @@
                     HEIGHT="197"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3601"
-                   VPOS="5919"
-                   WIDTH="259"
-                   HEIGHT="132"
-                   ID="block_5"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3860 5919 3860 6051 3601 6051 3601 5919"/></Shape>
-          <TextLine ID="line_71"
-                    TAGREFS="LT8"
-                    BASELINE="3608 5988 3852 5988" 
-                    HPOS="3608"
-                    VPOS="5922"
-                    WIDTH="244"
-                    HEIGHT="147">
-            <Shape><Polygon POINTS="3608 5988 3608 6069 3852 6046 3852 5988 3852 5922 3608 5922 3608 5988"/></Shape>
-	    <String CONTENT="Denys,"
-                    HPOS="3608"
-                    VPOS="5922"
-                    WIDTH="244"
-                    HEIGHT="147"
-                    WC="0.9996752540270487"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="599"
-                   VPOS="616"
-                   WIDTH="308"
-                   HEIGHT="493"
-                   ID="block_2"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="907 616 907 1109 599 1109 599 616"/></Shape>
-          <TextLine ID="line_3"
-                    TAGREFS="LT8"
-                    BASELINE="603 665 904 666" 
-                    HPOS="600"
-                    VPOS="592"
-                    WIDTH="304"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="603 665 603 592 904 592 904 701 600 700"/></Shape>
-	    <String CONTENT="Pepin fait Pepin ſon neueu la iouiſſance du païs Aquitanique auec la prerogatiue du nom"
-                    HPOS="600"
-                    VPOS="592"
-                    WIDTH="304"
-                    HEIGHT="109"
-                    WC="0.9721626083959233"></String>
-          </TextLine>
-          <TextLine ID="line_4"
-                    TAGREFS="LT8"
-                    BASELINE="603 750 899 752" 
-                    HPOS="600"
-                    VPOS="685"
-                    WIDTH="300"
-                    HEIGHT="127">
-            <Shape><Polygon POINTS="603 750 603 685 900 688 899 812 894 812 867 793 859 789 824 793 654 812 646 812 600 789"/></Shape>
-	    <String CONTENT="Rοy d&#x27;A- Royal, mais auec condition que Pepin le tiendroit de Charles, &amp; que ſ’il commettoit"
-                    HPOS="600"
-                    VPOS="685"
-                    WIDTH="300"
-                    HEIGHT="127"
-                    WC="0.9959765659726184"></String>
-          </TextLine>
-          <TextLine ID="line_5"
-                    TAGREFS="LT8"
-                    BASELINE="603 836 816 836 904 854" 
-                    HPOS="603"
-                    VPOS="781"
-                    WIDTH="315"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="603 781 918 783 895 898 886 894 603 894"/></Shape>
-	    <String CONTENT="quitaint, felonnie, celle couronne ſeroit reünié, &amp; incorporée à celle de France, ainſi que de¬"
-                    HPOS="603"
-                    VPOS="781"
-                    WIDTH="315"
-                    HEIGHT="117"
-                    WC="0.9834690232469578"></String>
-          </TextLine>
-          <TextLine ID="line_2"
-                    TAGREFS="LT8"
-                    BASELINE="611 921 874 913" 
-                    HPOS="607"
-                    VPOS="855"
-                    WIDTH="267"
-                    HEIGHT="112">
-            <Shape><Polygon POINTS="611 921 611 967 739 940 789 956 813 963 816 963 820 963 824 963 874 948 874 913 863 855 607 859 611 921"/></Shape>
-	    <String CONTENT="&amp; aue"
-                    HPOS="607"
-                    VPOS="855"
-                    WIDTH="267"
-                    HEIGHT="112"
-                    WC="0.9964604854583741"></String>
-          </TextLine>
-          <TextLine ID="line_6"
-                    TAGREFS="LT8"
-                    BASELINE="603 998 859 991 904 983" 
-                    HPOS="603"
-                    VPOS="888"
-                    WIDTH="307"
-                    HEIGHT="133">
-            <Shape><Polygon POINTS="603 901 887 888 910 1021 603 1021"/></Shape>
-	    <String CONTENT="auelle con puis il aduint, &amp; où elle demoura long temps, &amp; en ſortant ſi eſt-ce que iamais les"
-                    HPOS="603"
-                    VPOS="888"
-                    WIDTH="307"
-                    HEIGHT="133"
-                    WC="0.976305335446408"></String>
-          </TextLine>
-          <TextLine ID="line_7"
-                    TAGREFS="LT8"
-                    BASELINE="603 1080 904 1063" 
-                    HPOS="603"
-                    VPOS="994"
-                    WIDTH="303"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="603 1111 603 998 716 998 754 994 900 994 906 1111"/></Shape>
-	    <String CONTENT="ditien. Princes d’Aquitaine ne iouyrent du tiltre de Royauté. Au reſte durant les guerres"
-                    HPOS="603"
-                    VPOS="994"
-                    WIDTH="303"
-                    HEIGHT="117"
-                    WC="0.9973799328009287"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="591"
                    VPOS="1122"
                    WIDTH="317"
@@ -1403,6 +1357,29 @@
                     WIDTH="171"
                     HEIGHT="109"
                     WC="0.9999842166900634"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1915"
+                   VPOS="465"
+                   WIDTH="1314"
+                   HEIGHT="139"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3229 465 3229 604 1915 604 1915 465"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="1908 565 3213 545" 
+                    HPOS="1904"
+                    VPOS="394"
+                    WIDTH="1309"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="1908 603 3209 600 3213 545 3201 394 2679 437 2504 406 2500 406 2497 406 2493 406 2450 437 2311 418 2307 418 2202 441 2179 421 2179 418 2175 418 2171 418 2168 418 2164 418 2160 418 2125 449 1997 449 1904 414 1908 565"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="1904"
+                    VPOS="394"
+                    WIDTH="1309"
+                    HEIGHT="209"
+                    WC="0.9991910735766093"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="611"
@@ -1907,6 +1884,29 @@
                     WIDTH="302"
                     HEIGHT="186"
                     WC="0.98634901576572"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="3601"
+                   VPOS="5919"
+                   WIDTH="259"
+                   HEIGHT="132"
+                   ID="block_5"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3860 5919 3860 6051 3601 6051 3601 5919"/></Shape>
+          <TextLine ID="line_71"
+                    TAGREFS="LT8"
+                    BASELINE="3608 5988 3852 5988" 
+                    HPOS="3608"
+                    VPOS="5922"
+                    WIDTH="244"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="3608 5988 3608 6069 3852 6046 3852 5988 3852 5922 3608 5922 3608 5988"/></Shape>
+	    <String CONTENT="Denys,"
+                    HPOS="3608"
+                    VPOS="5922"
+                    WIDTH="244"
+                    HEIGHT="147"
+                    WC="0.9996752540270487"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

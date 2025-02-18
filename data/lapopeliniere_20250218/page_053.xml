@@ -570,6 +570,14 @@
                     WC="0.9778205509088478"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="753"
+                   VPOS="1720"
+                   WIDTH="47"
+                   HEIGHT="42"
+                   ID="eSc_textblock_e2094aca"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="753 1720 753 1762 800 1762 800 1720"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="line_23"
                     TAGREFS="LT8"

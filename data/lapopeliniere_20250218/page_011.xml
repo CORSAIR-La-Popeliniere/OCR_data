@@ -21,27 +21,125 @@
                   VPOS="0"
                   WIDTH="4096"
                   HEIGHT="6983">
-        <TextBlock HPOS="1706"
-                   VPOS="402"
-                   WIDTH="1515"
-                   HEIGHT="125"
-                   ID="block_0"
+        <TextBlock HPOS="497"
+                   VPOS="411"
+                   WIDTH="820"
+                   HEIGHT="131"
+                   ID="block_1"
                    TAGREFS="BT18">
-          <Shape><Polygon POINTS="3221 402 3221 527 1706 527 1706 402"/></Shape>
-          <TextLine ID="line_1"
+          <Shape><Polygon POINTS="1317 411 1317 542 497 542 497 411"/></Shape>
+          <TextLine ID="line_0"
                     TAGREFS="LT10"
-                    BASELINE="1688 492 3210 473" 
-                    HPOS="1684"
-                    VPOS="325"
-                    WIDTH="1526"
-                    HEIGHT="218">
-            <Shape><Polygon POINTS="1692 543 1770 523 1929 539 1937 539 1941 539 1945 539 1991 519 3206 519 3210 473 3199 325 2985 329 2981 329 2764 380 2694 349 2690 349 2686 349 2581 368 2543 337 2539 337 2535 337 2465 337 2461 337 2457 337 2453 337 2449 341 2399 387 2286 387 2065 372 2061 372 1890 391 1836 356 1824 345 1820 345 1816 345 1813 345 1684 356 1688 492"/></Shape>
-	    <String CONTENT="plaiſoit"
-                    HPOS="1684"
-                    VPOS="325"
-                    WIDTH="1526"
-                    HEIGHT="218"
-                    WC="0.9727513353029887"></String>
+                    BASELINE="496 500 1354 488" 
+                    HPOS="493"
+                    VPOS="364"
+                    WIDTH="861"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="496 539 729 562 733 562 737 562 772 547 795 535 830 547 865 558 869 558 873 558 955 550 1098 531 1133 550 1133 554 1137 554 1141 554 1145 558 1351 558 1354 488 1347 387 1242 364 1238 364 1133 387 1129 387 1125 387 1067 364 1063 364 1059 364 924 368 920 368 916 368 889 391 885 395 714 395 698 391 640 372 636 372 632 372 493 391 496 500"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="493"
+                    VPOS="364"
+                    WIDTH="861"
+                    HEIGHT="198"
+                    WC="0.995520153466393"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="482"
+                   VPOS="766"
+                   WIDTH="334"
+                   HEIGHT="538"
+                   ID="block_4"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="816 766 816 1304 482 1304 482 766"/></Shape>
+          <TextLine ID="line_5"
+                    TAGREFS="LT8"
+                    BASELINE="504 841 780 830 807 825" 
+                    HPOS="504"
+                    VPOS="737"
+                    WIDTH="307"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="504 857 504 737 792 737 811 850"/></Shape>
+	    <String CONTENT="que ie ſuis contraint de dire que ceſt Adelvvlphe qu’il allegue, eſt le ſecond du nom,"
+                    HPOS="504"
+                    VPOS="737"
+                    WIDTH="307"
+                    HEIGHT="120"
+                    WC="0.9807120928168297"></String>
+          </TextLine>
+          <TextLine ID="line_6"
+                    TAGREFS="LT8"
+                    BASELINE="496 923 807 907" 
+                    HPOS="493"
+                    VPOS="826"
+                    WIDTH="316"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="807 934 496 954 496 923 493 837 528 837 531 841 570 841 609 837 648 837 687 834 764 834 803 826 809 934"/></Shape>
+	    <String CONTENT="&amp; celuy qui viuoit ſous Charles le Chaulue: &amp; que ceſtuy qui veſquit ſous Charles le"
+                    HPOS="493"
+                    VPOS="826"
+                    WIDTH="316"
+                    HEIGHT="128"
+                    WC="0.9811859149681894"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT8"
+                    BASELINE="500 1004 807 1003" 
+                    HPOS="496"
+                    VPOS="931"
+                    WIDTH="311"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="500 1004 496 938 807 931 807 1042 500 1043"/></Shape>
+	    <String CONTENT="fait."
+                    HPOS="496"
+                    VPOS="931"
+                    WIDTH="311"
+                    HEIGHT="112"
+                    WC="0.9829669058956998"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT8"
+                    BASELINE="500 1082 807 1083" 
+                    HPOS="500"
+                    VPOS="1020"
+                    WIDTH="307"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="500 1020 807 1020 807 1140 500 1140"/></Shape>
+	    <String CONTENT="σδιυyις Grand fut de ſi bas cœur, qu’eſtant aſſailly de ſes voiſins, il n’oſa leur faire teſte, ains"
+                    HPOS="500"
+                    VPOS="1020"
+                    WIDTH="307"
+                    HEIGHT="120"
+                    WC="0.983104658126831"></String>
+          </TextLine>
+          <TextLine ID="line_9"
+                    TAGREFS="LT8"
+                    BASELINE="496 1163 807 1180" 
+                    HPOS="493"
+                    VPOS="1108"
+                    WIDTH="318"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="496 1163 496 1109 811 1108 805 1222 493 1222"/></Shape>
+	    <String CONTENT="phe I. du ſ’enfuyant en Gaule vers l’Empereur, &amp; depuis à Rome, fallut que veſquit à la mercy"
+                    HPOS="493"
+                    VPOS="1108"
+                    WIDTH="318"
+                    HEIGHT="114"
+                    WC="0.9860992467049325"></String>
+          </TextLine>
+          <TextLine ID="line_4"
+                    TAGREFS="LT8"
+                    BASELINE="500 1256 667 1249" 
+                    HPOS="493"
+                    VPOS="1190"
+                    WIDTH="174"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="500 1256 500 1311 667 1287 667 1249 660 1190 493 1190 500 1256"/></Shape>
+	    <String CONTENT="nom Roy des eſtrangers, car telle fut la vie du premier Roy Anglois portant ce nom, lequel les"
+                    HPOS="493"
+                    VPOS="1190"
+                    WIDTH="174"
+                    HEIGHT="121"
+                    WC="0.9998274445533752"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="804"
@@ -856,127 +954,6 @@
                     WC="0.9927544891834259"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3538"
-                   VPOS="5913"
-                   WIDTH="293"
-                   HEIGHT="130"
-                   ID="block_11"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3831 5913 3831 6043 3538 6043 3538 5913"/></Shape>
-          <TextLine ID="line_68"
-                    TAGREFS="LT8"
-                    BASELINE="3552 5985 3820 5985" 
-                    HPOS="3552"
-                    VPOS="5916"
-                    WIDTH="268"
-                    HEIGHT="151">
-            <Shape><Polygon POINTS="3552 5985 3552 6067 3820 6024 3820 5985 3816 5916 3552 5916 3552 5985"/></Shape>
-	    <String CONTENT=""
-                    HPOS="3552"
-                    VPOS="5916"
-                    WIDTH="268"
-                    HEIGHT="151"
-                    WC="0.9937090799212456"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="482"
-                   VPOS="766"
-                   WIDTH="334"
-                   HEIGHT="538"
-                   ID="block_4"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="816 766 816 1304 482 1304 482 766"/></Shape>
-          <TextLine ID="line_5"
-                    TAGREFS="LT8"
-                    BASELINE="504 841 780 830 807 825" 
-                    HPOS="504"
-                    VPOS="737"
-                    WIDTH="307"
-                    HEIGHT="120">
-            <Shape><Polygon POINTS="504 857 504 737 792 737 811 850"/></Shape>
-	    <String CONTENT="que ie ſuis contraint de dire que ceſt Adelvvlphe qu’il allegue, eſt le ſecond du nom,"
-                    HPOS="504"
-                    VPOS="737"
-                    WIDTH="307"
-                    HEIGHT="120"
-                    WC="0.9807120928168297"></String>
-          </TextLine>
-          <TextLine ID="line_6"
-                    TAGREFS="LT8"
-                    BASELINE="496 923 807 907" 
-                    HPOS="493"
-                    VPOS="826"
-                    WIDTH="316"
-                    HEIGHT="128">
-            <Shape><Polygon POINTS="807 934 496 954 496 923 493 837 528 837 531 841 570 841 609 837 648 837 687 834 764 834 803 826 809 934"/></Shape>
-	    <String CONTENT="&amp; celuy qui viuoit ſous Charles le Chaulue: &amp; que ceſtuy qui veſquit ſous Charles le"
-                    HPOS="493"
-                    VPOS="826"
-                    WIDTH="316"
-                    HEIGHT="128"
-                    WC="0.9811859149681894"></String>
-          </TextLine>
-          <TextLine ID="line_7"
-                    TAGREFS="LT8"
-                    BASELINE="500 1004 807 1003" 
-                    HPOS="496"
-                    VPOS="931"
-                    WIDTH="311"
-                    HEIGHT="112">
-            <Shape><Polygon POINTS="500 1004 496 938 807 931 807 1042 500 1043"/></Shape>
-	    <String CONTENT="fait."
-                    HPOS="496"
-                    VPOS="931"
-                    WIDTH="311"
-                    HEIGHT="112"
-                    WC="0.9829669058956998"></String>
-          </TextLine>
-          <TextLine ID="line_8"
-                    TAGREFS="LT8"
-                    BASELINE="500 1082 807 1083" 
-                    HPOS="500"
-                    VPOS="1020"
-                    WIDTH="307"
-                    HEIGHT="120">
-            <Shape><Polygon POINTS="500 1020 807 1020 807 1140 500 1140"/></Shape>
-	    <String CONTENT="σδιυyις Grand fut de ſi bas cœur, qu’eſtant aſſailly de ſes voiſins, il n’oſa leur faire teſte, ains"
-                    HPOS="500"
-                    VPOS="1020"
-                    WIDTH="307"
-                    HEIGHT="120"
-                    WC="0.983104658126831"></String>
-          </TextLine>
-          <TextLine ID="line_9"
-                    TAGREFS="LT8"
-                    BASELINE="496 1163 807 1180" 
-                    HPOS="493"
-                    VPOS="1108"
-                    WIDTH="318"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="496 1163 496 1109 811 1108 805 1222 493 1222"/></Shape>
-	    <String CONTENT="phe I. du ſ’enfuyant en Gaule vers l’Empereur, &amp; depuis à Rome, fallut que veſquit à la mercy"
-                    HPOS="493"
-                    VPOS="1108"
-                    WIDTH="318"
-                    HEIGHT="114"
-                    WC="0.9860992467049325"></String>
-          </TextLine>
-          <TextLine ID="line_4"
-                    TAGREFS="LT8"
-                    BASELINE="500 1256 667 1249" 
-                    HPOS="493"
-                    VPOS="1190"
-                    WIDTH="174"
-                    HEIGHT="121">
-            <Shape><Polygon POINTS="500 1256 500 1311 667 1287 667 1249 660 1190 493 1190 500 1256"/></Shape>
-	    <String CONTENT="nom Roy des eſtrangers, car telle fut la vie du premier Roy Anglois portant ce nom, lequel les"
-                    HPOS="493"
-                    VPOS="1190"
-                    WIDTH="174"
-                    HEIGHT="121"
-                    WC="0.9998274445533752"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="489"
                    VPOS="1386"
                    WIDTH="325"
@@ -1043,6 +1020,29 @@
                     WIDTH="194"
                     HEIGHT="148"
                     WC="0.9859871119260788"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1706"
+                   VPOS="402"
+                   WIDTH="1515"
+                   HEIGHT="125"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3221 402 3221 527 1706 527 1706 402"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="1688 492 3210 473" 
+                    HPOS="1684"
+                    VPOS="325"
+                    WIDTH="1526"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="1692 543 1770 523 1929 539 1937 539 1941 539 1945 539 1991 519 3206 519 3210 473 3199 325 2985 329 2981 329 2764 380 2694 349 2690 349 2686 349 2581 368 2543 337 2539 337 2535 337 2465 337 2461 337 2457 337 2453 337 2449 341 2399 387 2286 387 2065 372 2061 372 1890 391 1836 356 1824 345 1820 345 1816 345 1813 345 1684 356 1688 492"/></Shape>
+	    <String CONTENT="plaiſoit"
+                    HPOS="1684"
+                    VPOS="325"
+                    WIDTH="1526"
+                    HEIGHT="218"
+                    WC="0.9727513353029887"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="484"
@@ -1309,13 +1309,13 @@
                     WC="0.9870661193249273"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="487"
-                   VPOS="4498"
-                   WIDTH="364"
-                   HEIGHT="881"
-                   ID="block_8"
+        <TextBlock HPOS="485"
+                   VPOS="3944"
+                   WIDTH="355"
+                   HEIGHT="588"
+                   ID="eSc_textblock_5559e065"
                    TAGREFS="BT2523">
-          <Shape><Polygon POINTS="851 4498 837 5379 496 5379 487 4522"/></Shape>
+          <Shape><Polygon POINTS="485 3944 485 4532 840 4532 840 3944"/></Shape>
           <TextLine ID="line_38"
                     TAGREFS="LT8"
                     BASELINE="520 3988 821 3979" 
@@ -1421,6 +1421,14 @@
                     HEIGHT="117"
                     WC="0.999899335205555"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="487"
+                   VPOS="4498"
+                   WIDTH="364"
+                   HEIGHT="881"
+                   ID="block_8"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="851 4498 837 5379 496 5379 487 4522"/></Shape>
           <TextLine ID="line_44"
                     TAGREFS="LT8"
                     BASELINE="543 4562 844 4554" 
@@ -1625,37 +1633,27 @@
                     WC="0.9932536125183106"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="485"
-                   VPOS="3944"
-                   WIDTH="355"
-                   HEIGHT="588"
-                   ID="eSc_textblock_5559e065"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="485 3944 485 4532 840 4532 840 3944"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="497"
-                   VPOS="411"
-                   WIDTH="820"
-                   HEIGHT="131"
-                   ID="block_1"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1317 411 1317 542 497 542 497 411"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_0"
+        <TextBlock HPOS="3538"
+                   VPOS="5913"
+                   WIDTH="293"
+                   HEIGHT="130"
+                   ID="block_11"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3831 5913 3831 6043 3538 6043 3538 5913"/></Shape>
+          <TextLine ID="line_68"
                     TAGREFS="LT8"
-                    BASELINE="496 500 1354 488" 
-                    HPOS="493"
-                    VPOS="364"
-                    WIDTH="861"
-                    HEIGHT="198">
-            <Shape><Polygon POINTS="496 539 729 562 733 562 737 562 772 547 795 535 830 547 865 558 869 558 873 558 955 550 1098 531 1133 550 1133 554 1137 554 1141 554 1145 558 1351 558 1354 488 1347 387 1242 364 1238 364 1133 387 1129 387 1125 387 1067 364 1063 364 1059 364 924 368 920 368 916 368 889 391 885 395 714 395 698 391 640 372 636 372 632 372 493 391 496 500"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="493"
-                    VPOS="364"
-                    WIDTH="861"
-                    HEIGHT="198"
-                    WC="0.995520153466393"></String>
+                    BASELINE="3552 5985 3820 5985" 
+                    HPOS="3552"
+                    VPOS="5916"
+                    WIDTH="268"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="3552 5985 3552 6067 3820 6024 3820 5985 3816 5916 3552 5916 3552 5985"/></Shape>
+	    <String CONTENT=""
+                    HPOS="3552"
+                    VPOS="5916"
+                    WIDTH="268"
+                    HEIGHT="151"
+                    WC="0.9937090799212456"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -21,52 +21,6 @@
                   VPOS="0"
                   WIDTH="4096"
                   HEIGHT="6899">
-        <TextBlock HPOS="482"
-                   VPOS="493"
-                   WIDTH="2295"
-                   HEIGHT="137"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2767 493 2777 607 482 630 482 507"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT10"
-                    BASELINE="475 582 2746 590" 
-                    HPOS="471"
-                    VPOS="452"
-                    WIDTH="2275"
-                    HEIGHT="172">
-            <Shape><Polygon POINTS="471 613 2738 624 2746 590 2746 482 2692 456 2688 456 2684 456 2680 456 2600 482 2592 486 2347 486 2331 482 2186 456 2182 456 2178 456 2086 482 2074 486 1952 486 1948 482 1929 463 1929 459 1925 459 1921 459 1917 459 1913 459 1860 479 1852 486 1637 486 1629 479 1595 459 1591 459 1587 459 1583 459 1380 479 1373 479 1369 479 1292 452 1288 452 882 452 878 452 874 452 870 452 870 456 843 479 839 482 763 482 744 479 552 452 548 452 544 452 475 475 475 582"/></Shape>
-	    <String CONTENT="PHILIPPE AVGVSTE. LIVRE III."
-                    HPOS="471"
-                    VPOS="452"
-                    WIDTH="2275"
-                    HEIGHT="172"
-                    WC="0.9940606547253472"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3039"
-                   VPOS="532"
-                   WIDTH="161"
-                   HEIGHT="112"
-                   ID="block_10"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3200 532 3200 644 3039 644 3039 532"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="3029 597 3194 590" 
-                    HPOS="3022"
-                    VPOS="490"
-                    WIDTH="172"
-                    HEIGHT="138">
-            <Shape><Polygon POINTS="3029 597 3029 628 3194 624 3194 590 3187 502 3095 490 3091 490 3087 490 3022 509 3029 597"/></Shape>
-	    <String CONTENT="554"
-                    HPOS="3022"
-                    VPOS="490"
-                    WIDTH="172"
-                    HEIGHT="138"
-                    WC="0.9999973773956299"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="248"
                    VPOS="619"
                    WIDTH="2984"
@@ -915,27 +869,50 @@
                     WC="0.9809699640717617"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2510"
-                   VPOS="5888"
-                   WIDTH="449"
-                   HEIGHT="132"
-                   ID="block_9"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="2959 5888 2959 6020 2603 6020 2510 6020 2510 5888 2757 5888"/></Shape>
-          <TextLine ID="line_66"
+        <TextBlock HPOS="482"
+                   VPOS="493"
+                   WIDTH="2295"
+                   HEIGHT="137"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2767 493 2777 607 482 630 482 507"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="475 582 2746 590" 
+                    HPOS="471"
+                    VPOS="452"
+                    WIDTH="2275"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="471 613 2738 624 2746 590 2746 482 2692 456 2688 456 2684 456 2680 456 2600 482 2592 486 2347 486 2331 482 2186 456 2182 456 2178 456 2086 482 2074 486 1952 486 1948 482 1929 463 1929 459 1925 459 1921 459 1917 459 1913 459 1860 479 1852 486 1637 486 1629 479 1595 459 1591 459 1587 459 1583 459 1380 479 1373 479 1369 479 1292 452 1288 452 882 452 878 452 874 452 870 452 870 456 843 479 839 482 763 482 744 479 552 452 548 452 544 452 475 475 475 582"/></Shape>
+	    <String CONTENT="PHILIPPE AVGVSTE. LIVRE III."
+                    HPOS="471"
+                    VPOS="452"
+                    WIDTH="2275"
+                    HEIGHT="172"
+                    WC="0.9940606547253472"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="3039"
+                   VPOS="532"
+                   WIDTH="161"
+                   HEIGHT="112"
+                   ID="block_10"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3200 532 3200 644 3039 644 3039 532"/></Shape>
+          <TextLine ID="line_1"
                     TAGREFS="LT8"
-                    BASELINE="2519 5963 2956 5956" 
-                    HPOS="2515"
-                    VPOS="5867"
-                    WIDTH="441"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="2519 5963 2519 6048 2956 6036 2956 5956 2945 5898 2784 5898 2780 5898 2742 5867 2738 5867 2734 5867 2730 5867 2726 5867 2722 5867 2688 5894 2661 5871 2657 5871 2653 5871 2650 5871 2515 5894 2519 5963"/></Shape>
-	    <String CONTENT="CCCe ij"
-                    HPOS="2515"
-                    VPOS="5867"
-                    WIDTH="441"
-                    HEIGHT="181"
-                    WC="0.9959232466561454"></String>
+                    BASELINE="3029 597 3194 590" 
+                    HPOS="3022"
+                    VPOS="490"
+                    WIDTH="172"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="3029 597 3029 628 3194 624 3194 590 3187 502 3095 490 3091 490 3087 490 3022 509 3029 597"/></Shape>
+	    <String CONTENT="554"
+                    HPOS="3022"
+                    VPOS="490"
+                    WIDTH="172"
+                    HEIGHT="138"
+                    WC="0.9999973773956299"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3199"
@@ -1454,6 +1431,29 @@
                     VPOS="4921"
                     WIDTH="167"
                     HEIGHT="167"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2510"
+                   VPOS="5888"
+                   WIDTH="449"
+                   HEIGHT="132"
+                   ID="block_9"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="2959 5888 2959 6020 2603 6020 2510 6020 2510 5888 2757 5888"/></Shape>
+          <TextLine ID="line_66"
+                    TAGREFS="LT8"
+                    BASELINE="2519 5963 2956 5956" 
+                    HPOS="2515"
+                    VPOS="5867"
+                    WIDTH="441"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="2519 5963 2519 6048 2956 6036 2956 5956 2945 5898 2784 5898 2780 5898 2742 5867 2738 5867 2734 5867 2730 5867 2726 5867 2722 5867 2688 5894 2661 5871 2657 5871 2653 5871 2650 5871 2515 5894 2519 5963"/></Shape>
+	    <String CONTENT="CCCe ij"
+                    HPOS="2515"
+                    VPOS="5867"
+                    WIDTH="441"
+                    HEIGHT="181"
+                    WC="0.9959232466561454"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

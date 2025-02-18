@@ -44,29 +44,6 @@
                     WC="0.9998367064528995"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2162"
-                   VPOS="559"
-                   WIDTH="1223"
-                   HEIGHT="124"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="3385 559 3385 683 2162 683 2162 559"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT10"
-                    BASELINE="2161 635 3385 631" 
-                    HPOS="2157"
-                    VPOS="482"
-                    WIDTH="1228"
-                    HEIGHT="204">
-            <Shape><Polygon POINTS="2161 686 3381 674 3385 631 3378 533 3020 525 3009 517 2958 482 2954 482 2950 482 2946 482 2942 482 2840 510 2769 529 2726 506 2679 482 2675 482 2671 482 2561 502 2522 506 2495 498 2448 482 2444 482 2440 482 2157 482 2161 635"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="2157"
-                    VPOS="482"
-                    WIDTH="1228"
-                    HEIGHT="204"
-                    WC="0.9998303850491842"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="871"
                    VPOS="669"
                    WIDTH="2933"
@@ -888,29 +865,6 @@
                     HEIGHT="184"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3359"
-                   VPOS="6053"
-                   WIDTH="382"
-                   HEIGHT="61"
-                   ID="eSc_textblock_95b5f39c"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3741 6114 3741 6053 3359 6053 3359 6114"/></Shape>
-          <TextLine ID="line_58"
-                    TAGREFS="LT8"
-                    BASELINE="3409 6100 3719 6085" 
-                    HPOS="3401"
-                    VPOS="6006"
-                    WIDTH="318"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="3409 6100 3409 6179 3562 6214 3566 6214 3570 6214 3719 6163 3719 6085 3707 6006 3401 6034 3409 6100"/></Shape>
-	    <String CONTENT="monſieur"
-                    HPOS="3401"
-                    VPOS="6006"
-                    WIDTH="318"
-                    HEIGHT="208"
-                    WC="0.9817070290446281"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="566"
                    VPOS="1493"
                    WIDTH="337"
@@ -1067,6 +1021,29 @@
                     WIDTH="308"
                     HEIGHT="110"
                     WC="0.9682519496841864"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2162"
+                   VPOS="559"
+                   WIDTH="1223"
+                   HEIGHT="124"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3385 559 3385 683 2162 683 2162 559"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="2161 635 3385 631" 
+                    HPOS="2157"
+                    VPOS="482"
+                    WIDTH="1228"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="2161 686 3381 674 3385 631 3378 533 3020 525 3009 517 2958 482 2954 482 2950 482 2946 482 2942 482 2840 510 2769 529 2726 506 2679 482 2675 482 2671 482 2561 502 2522 506 2495 498 2448 482 2444 482 2440 482 2157 482 2161 635"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="2157"
+                    VPOS="482"
+                    WIDTH="1228"
+                    HEIGHT="204"
+                    WC="0.9998303850491842"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="572"
@@ -1512,6 +1489,29 @@
                     WIDTH="297"
                     HEIGHT="167"
                     WC="0.9804089849299573"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="3359"
+                   VPOS="6053"
+                   WIDTH="382"
+                   HEIGHT="61"
+                   ID="eSc_textblock_95b5f39c"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3741 6114 3741 6053 3359 6053 3359 6114"/></Shape>
+          <TextLine ID="line_58"
+                    TAGREFS="LT8"
+                    BASELINE="3409 6100 3719 6085" 
+                    HPOS="3401"
+                    VPOS="6006"
+                    WIDTH="318"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="3409 6100 3409 6179 3562 6214 3566 6214 3570 6214 3719 6163 3719 6085 3707 6006 3401 6034 3409 6100"/></Shape>
+	    <String CONTENT="monſieur"
+                    HPOS="3401"
+                    VPOS="6006"
+                    WIDTH="318"
+                    HEIGHT="208"
+                    WC="0.9817070290446281"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

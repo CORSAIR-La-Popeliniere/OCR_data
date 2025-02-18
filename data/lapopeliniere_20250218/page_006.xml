@@ -44,36 +44,13 @@
                     WC="0.9997267595359257"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1866"
-                   VPOS="515"
-                   WIDTH="1299"
-                   HEIGHT="129"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="3165 515 3165 644 1866 644 1866 515"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT10"
-                    BASELINE="1860 598 3148 598" 
-                    HPOS="1860"
-                    VPOS="471"
-                    WIDTH="1288"
-                    HEIGHT="165">
-            <Shape><Polygon POINTS="1860 632 3144 636 3148 598 3148 471 2976 471 2972 471 2968 471 2964 471 2910 506 2876 483 2872 483 2868 483 2864 483 2861 483 2857 483 2857 487 2826 513 2734 479 2715 471 2711 471 2707 471 2669 479 2527 513 1860 498 1860 598"/></Shape>
-	    <String CONTENT="HISTOIRE DV ROY"
-                    HPOS="1860"
-                    VPOS="471"
-                    WIDTH="1288"
-                    HEIGHT="165"
-                    WC="0.9998998403549194"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="828"
+        <TextBlock HPOS="819"
                    VPOS="655"
-                   WIDTH="2902"
-                   HEIGHT="5293"
+                   WIDTH="2911"
+                   HEIGHT="5307"
                    ID="block_8"
                    TAGREFS="BT2522">
-          <Shape><Polygon POINTS="833 655 3730 655 3702 5930 833 5948 828 772"/></Shape>
+          <Shape><Polygon POINTS="833 655 3730 655 3702 5930 819 5962 828 772"/></Shape>
           <TextLine ID="line_2"
                     TAGREFS="LT8"
                     BASELINE="839 717 2535 709 3704 728" 
@@ -894,29 +871,6 @@
                     WC="0.9883539546495197"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3414"
-                   VPOS="5901"
-                   WIDTH="278"
-                   HEIGHT="132"
-                   ID="block_9"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3692 5901 3692 6033 3414 6033 3414 5901"/></Shape>
-          <TextLine ID="line_64"
-                    TAGREFS="LT8"
-                    BASELINE="3432 5963 3677 5974" 
-                    HPOS="3428"
-                    VPOS="5894"
-                    WIDTH="249"
-                    HEIGHT="180">
-            <Shape><Polygon POINTS="3432 5963 3428 6036 3470 6070 3474 6070 3478 6070 3547 6074 3551 6074 3555 6074 3559 6074 3559 6070 3585 6047 3597 6040 3666 6059 3677 5974 3677 5913 3601 5894 3597 5894 3593 5894 3432 5902 3432 5963"/></Shape>
-	    <String CONTENT="le pere,"
-                    HPOS="3428"
-                    VPOS="5894"
-                    WIDTH="249"
-                    HEIGHT="180"
-                    WC="0.9844730719923973"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="500"
                    VPOS="938"
                    WIDTH="365"
@@ -1014,6 +968,14 @@
                     HEIGHT="96"
                     WC="0.9992572426795959"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="532"
+                   VPOS="1439"
+                   WIDTH="312"
+                   HEIGHT="415"
+                   ID="eSc_textblock_800c801b"
+                   TAGREFS="BT2523">
+          <Shape><Polygon POINTS="532 1854 532 1439 844 1439 844 1854"/></Shape>
           <TextLine ID="line_10"
                     TAGREFS="LT8"
                     BASELINE="544 1495 835 1472" 
@@ -1088,6 +1050,29 @@
                     WIDTH="311"
                     HEIGHT="130"
                     WC="0.9960865498928542"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1866"
+                   VPOS="515"
+                   WIDTH="1299"
+                   HEIGHT="129"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="3165 515 3165 644 1866 644 1866 515"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="1860 598 3148 598" 
+                    HPOS="1860"
+                    VPOS="471"
+                    WIDTH="1288"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="1860 632 3144 636 3148 598 3148 471 2976 471 2972 471 2968 471 2964 471 2910 506 2876 483 2872 483 2868 483 2864 483 2861 483 2857 483 2857 487 2826 513 2734 479 2715 471 2711 471 2707 471 2669 479 2527 513 1860 498 1860 598"/></Shape>
+	    <String CONTENT="HISTOIRE DV ROY"
+                    HPOS="1860"
+                    VPOS="471"
+                    WIDTH="1288"
+                    HEIGHT="165"
+                    WC="0.9998998403549194"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="522"
@@ -1362,13 +1347,28 @@
                     WC="0.9914984879168597"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="532"
-                   VPOS="1439"
-                   WIDTH="312"
-                   HEIGHT="415"
-                   ID="eSc_textblock_800c801b"
-                   TAGREFS="BT2523">
-          <Shape><Polygon POINTS="532 1854 532 1439 844 1439 844 1854"/></Shape>
+        <TextBlock HPOS="3414"
+                   VPOS="5901"
+                   WIDTH="278"
+                   HEIGHT="132"
+                   ID="block_9"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3692 5901 3692 6033 3414 6033 3414 5901"/></Shape>
+          <TextLine ID="line_64"
+                    TAGREFS="LT8"
+                    BASELINE="3432 5963 3677 5974" 
+                    HPOS="3428"
+                    VPOS="5894"
+                    WIDTH="249"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="3432 5963 3428 6036 3470 6070 3474 6070 3478 6070 3547 6074 3551 6074 3555 6074 3559 6074 3559 6070 3585 6047 3597 6040 3666 6059 3677 5974 3677 5913 3601 5894 3597 5894 3593 5894 3432 5902 3432 5963"/></Shape>
+	    <String CONTENT="le pere,"
+                    HPOS="3428"
+                    VPOS="5894"
+                    WIDTH="249"
+                    HEIGHT="180"
+                    WC="0.9844730719923973"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

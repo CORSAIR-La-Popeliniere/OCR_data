@@ -1326,14 +1326,6 @@
                     HEIGHT="108"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="373"
-                   VPOS="679"
-                   WIDTH="10"
-                   HEIGHT="205"
-                   ID="eSc_textblock_8ca3059e"
-                   >
-          <Shape><Polygon POINTS="383 884 383 679 373 679 373 884"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="3336"
                    VPOS="3776"
                    WIDTH="321"

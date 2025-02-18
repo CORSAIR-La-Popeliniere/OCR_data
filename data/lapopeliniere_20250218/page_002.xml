@@ -21,52 +21,6 @@
                   VPOS="0"
                   WIDTH="4096"
                   HEIGHT="6616">
-        <TextBlock HPOS="1334"
-                   VPOS="336"
-                   WIDTH="1234"
-                   HEIGHT="121"
-                   ID="block_0"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2568 336 2568 457 1334 457 1334 336"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT10"
-                    BASELINE="1334 422 2573 415" 
-                    HPOS="1331"
-                    VPOS="283"
-                    WIDTH="1242"
-                    HEIGHT="187">
-            <Shape><Polygon POINTS="1338 470 1389 452 1481 470 1489 470 1492 470 1500 470 1581 452 1647 470 1650 470 1654 470 1658 470 1669 470 1786 452 2301 466 2305 466 2309 466 2312 466 2342 448 2566 466 2573 415 2562 301 2345 312 2323 297 2298 283 2294 283 2290 283 2132 283 2128 283 1996 297 1842 316 1775 297 1735 286 1731 286 1728 286 1724 286 1691 297 1632 316 1558 297 1544 294 1540 294 1536 294 1514 297 1419 316 1389 297 1378 286 1375 286 1371 286 1367 286 1364 286 1331 294 1334 422"/></Shape>
-	    <String CONTENT="PEPIN. LIVRE II."
-                    HPOS="1331"
-                    VPOS="283"
-                    WIDTH="1242"
-                    HEIGHT="187"
-                    WC="0.9892866313457489"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3187"
-                   VPOS="362"
-                   WIDTH="157"
-                   HEIGHT="99"
-                   ID="block_8"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="3344 362 3344 461 3187 461 3187 362"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT8"
-                    BASELINE="3184 422 3338 422" 
-                    HPOS="3184"
-                    VPOS="294"
-                    WIDTH="154"
-                    HEIGHT="176">
-            <Shape><Polygon POINTS="3184 422 3184 459 3334 470 3338 422 3338 312 3184 294 3184 422"/></Shape>
-	    <String CONTENT="149"
-                    HPOS="3184"
-                    VPOS="294"
-                    WIDTH="154"
-                    HEIGHT="176"
-                    WC="0.9999938805898031"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="481"
                    VPOS="463"
                    WIDTH="2865"
@@ -913,6 +867,52 @@
                     WIDTH="2838"
                     HEIGHT="162"
                     WC="0.9762990585203921"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1334"
+                   VPOS="336"
+                   WIDTH="1234"
+                   HEIGHT="121"
+                   ID="block_0"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2568 336 2568 457 1334 457 1334 336"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="1334 422 2573 415" 
+                    HPOS="1331"
+                    VPOS="283"
+                    WIDTH="1242"
+                    HEIGHT="187">
+            <Shape><Polygon POINTS="1338 470 1389 452 1481 470 1489 470 1492 470 1500 470 1581 452 1647 470 1650 470 1654 470 1658 470 1669 470 1786 452 2301 466 2305 466 2309 466 2312 466 2342 448 2566 466 2573 415 2562 301 2345 312 2323 297 2298 283 2294 283 2290 283 2132 283 2128 283 1996 297 1842 316 1775 297 1735 286 1731 286 1728 286 1724 286 1691 297 1632 316 1558 297 1544 294 1540 294 1536 294 1514 297 1419 316 1389 297 1378 286 1375 286 1371 286 1367 286 1364 286 1331 294 1334 422"/></Shape>
+	    <String CONTENT="PEPIN. LIVRE II."
+                    HPOS="1331"
+                    VPOS="283"
+                    WIDTH="1242"
+                    HEIGHT="187"
+                    WC="0.9892866313457489"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="3187"
+                   VPOS="362"
+                   WIDTH="157"
+                   HEIGHT="99"
+                   ID="block_8"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="3344 362 3344 461 3187 461 3187 362"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT8"
+                    BASELINE="3184 422 3338 422" 
+                    HPOS="3184"
+                    VPOS="294"
+                    WIDTH="154"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="3184 422 3184 459 3334 470 3338 422 3338 312 3184 294 3184 422"/></Shape>
+	    <String CONTENT="149"
+                    HPOS="3184"
+                    VPOS="294"
+                    WIDTH="154"
+                    HEIGHT="176"
+                    WC="0.9999938805898031"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3345"
