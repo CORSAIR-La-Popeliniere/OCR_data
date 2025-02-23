@@ -10,7 +10,8 @@ authors:
   - quality-control
   - support
   surname: Gabay
--name: Robin
+- name: Robin
+roles:
 - support
 surname: Cherix
 automatically-aligned: false
