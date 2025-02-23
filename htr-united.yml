@@ -11,7 +11,9 @@ authors:
   - support
   surname: Gabay
 - name: Robin
-automatically-aligned: false
+  roles:
+  -support
+surname: Cherix
 characters:
   members:
   - e
