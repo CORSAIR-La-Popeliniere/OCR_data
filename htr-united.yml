@@ -11,9 +11,6 @@ authors:
   - support
   surname: Gabay
 - name: Robin
-roles:
-- support
-surname: Cherix
 automatically-aligned: false
 characters:
   members:
@@ -26,8 +23,8 @@ characters:
   - t
   - o
   - l
-  - s
   - ſ
+  - s
   - d
   - c
   - p
@@ -37,8 +34,8 @@ characters:
   - f
   - g
   - ’
-  - .
   - y
+  - .
   - '&'
   - h
   - b
@@ -49,23 +46,23 @@ characters:
   - x
   - C
   - ̃
+  - E
   - ':'
   - z
-  - E
   - R
   - A
   - P
-  - M
   - I
+  - M
   - L
   - S
   - D
-  - '-'
   - V
+  - '-'
   - F
-  - G
-  - '1'
   - "'"
+  - '1'
+  - G
   - B
   - T
   - N
@@ -80,8 +77,8 @@ characters:
   - )
   - (
   - '6'
-  - j
   - '7'
+  - j
   - '0'
   - '8'
   - '9'
@@ -89,57 +86,59 @@ characters:
   - X
   - œ
   - '?'
-  - ι
-  - ε
-  - ς
-  - α
   - Y
   - Z
-  - ο
   - ;
-  - η
-  - σ
+  - ι
+  - α
+  - ς
+  - ε
+  - ο
   - ß
   - '!'
-  - τ
   - ̂
   - æ
-  - '*'
-  - ν
   - k
-  - ρ
-  - υ
+  - '*'
+  - η
+  - τ
+  - σ
   - W
-  - ꝰ
-  - π
   - U
+  - ꝰ
+  - ν
   - K
+  - ρ
+  - π
+  - υ
+  - J
+  - „
+  - ¶
+  - 
   - δ
   - κ
-  - „
+  - ꝗ
   - ·
   - ω
-  - θ
-  - 
-  - J
-  - λ
-  - ͂
   - μ
-  - Ι
-  - ¶
+  - '"'
   - Τ
-  - ꝗ
+  - θ
+  - λ
+  - ̨
+  - ͅ
+  - Æ
+  - ͂
+  - Ι
   - ̓
+  - »
+  - β
   - γ
   - ᗅ
   - Ε
   - ꝑ
   - Μ
-  - ̨
-  - '"'
-  - ͅ
   - ꝯ
-  - Æ
   - Β
   mode: NFD
 description: >-
@@ -160,23 +159,26 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: CORSAIR
+roles:
+- support
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
 script-type: mainly-typed
+surname: Cherix
 time:
   notAfter: '1599'
   notBefore: '1562'
 title: 'CORSAIR: OCR dataset'
 url: https://github.com/CORSAIR-La-Popeliniere/segmentation_16thcentury_french_historiography?tab=readme-ov-file#readme
 volume:
-- count: 563184
+- count: 1093047
   metric: characters
-- count: 287
+- count: 555
   metric: files
-- count: 14167
+- count: 27648
   metric: lines
 - count: 800
   metric: pages
-- count: 1836
+- count: 3605
   metric: regions
