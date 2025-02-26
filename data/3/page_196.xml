@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="2382"
                   HEIGHT="3368">
-        <TextBlock HPOS="757.0"
-                   VPOS="177.0"
-                   WIDTH="1510.0"
-                   HEIGHT="1227.0"
+        <TextBlock HPOS="762"
+                   VPOS="191"
+                   WIDTH="1462"
+                   HEIGHT="1202"
                    ID="eSc_textblock_b4dc4240"
                    TAGREFS="BT2522">
-          <Shape><Polygon POINTS="757 177 757 1393 2267 1404 2264 177"/></Shape>
+          <Shape><Polygon POINTS="762 193 771 1393 2224 1347 2212 191"/></Shape>
           <TextLine ID="eSc_line_8b9f849e"
                     TAGREFS="LT8"
                     BASELINE="778 266 2163 265" 
@@ -248,17 +248,19 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1116 112 1116 198 1833 198 1833 112"/></Shape>
           <TextLine ID="eSc_line_8f873fde"
-                    BASELINE="1129 161 1810 167" 
+                    TAGREFS="LT10"
+                    BASELINE="1129 161 1821 167" 
                     HPOS="1123"
                     VPOS="112"
-                    WIDTH="685"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1797 112 1769 112 1741 112 1713 112 1685 112 1657 112 1629 112 1601 112 1573 112 1544 112 1516 112 1488 112 1460 112 1432 112 1404 112 1376 112 1348 112 1320 112 1292 112 1264 112 1235 112 1207 112 1179 112 1151 112 1126 112 1126 159 1123 196 1806 196 1808 165 1806 112 1797 112"/></Shape>
-	    <String CONTENT="AVANT-DISCOVRS."
+                    WIDTH="697"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1432 112 1404 112 1376 112 1348 112 1320 112 1292 112 1264 112 1235 112 1207 112 1179 112 1151 112 1126 112 1126 159 1123 190 1817 188 1820 165 1817 115 1471 112 1460 112"/></Shape>
+	    <String CONTENT="A VANT-DISCOVRS."
                     HPOS="1123"
                     VPOS="112"
-                    WIDTH="685"
-                    HEIGHT="84"></String>
+                    WIDTH="697"
+                    HEIGHT="78"
+                    WC="0.997517567127943"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

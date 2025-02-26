@@ -437,6 +437,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1568 175 1568 266 1681 266 1681 175"/></Shape>
           <TextLine ID="eSc_line_c0b48cfe"
+                    TAGREFS="LT8"
                     BASELINE="1586 230 1654 233" 
                     HPOS="1581"
                     VPOS="176"
@@ -903,12 +904,13 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="615 156 615 254 1196 254 1196 156"/></Shape>
           <TextLine ID="eSc_line_61cd123f"
+                    TAGREFS="LT10"
                     BASELINE="627 229 955 227 1148 227" 
                     HPOS="623"
                     VPOS="165"
                     WIDTH="523"
                     HEIGHT="87">
-            <Shape><Polygon POINTS="626 227 626 252 1143 249 1146 224 1140 165 623 165 626 227"/></Shape>
+            <Shape><Polygon POINTS="626 252 1143 249 1146 224 1140 165 623 165 626 227"/></Shape>
 	    <String CONTENT="DE FRANCE."
                     HPOS="623"
                     VPOS="165"

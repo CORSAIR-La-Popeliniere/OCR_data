@@ -404,6 +404,7 @@
                    TAGREFS="BT2523">
           <Shape><Polygon POINTS="674 901 674 1162 484 1162 484 901"/></Shape>
           <TextLine ID="eSc_line_a9217a37"
+                    TAGREFS="LT8"
                     BASELINE="503 943 668 945" 
                     HPOS="499"
                     VPOS="903"
@@ -417,6 +418,7 @@
                     HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_7173494a"
+                    TAGREFS="LT8"
                     BASELINE="507 984 666 980" 
                     HPOS="502"
                     VPOS="943"
@@ -430,6 +432,7 @@
                     HEIGHT="57"></String>
           </TextLine>
           <TextLine ID="eSc_line_ea22919b"
+                    TAGREFS="LT8"
                     BASELINE="505 1017 635 1015" 
                     HPOS="502"
                     VPOS="974"
@@ -443,6 +446,7 @@
                     HEIGHT="231"></String>
           </TextLine>
           <TextLine ID="eSc_line_2a7ee2f4"
+                    TAGREFS="LT8"
                     BASELINE="509 1066 659 1056" 
                     HPOS="502"
                     VPOS="1010"
@@ -456,6 +460,7 @@
                     HEIGHT="71"></String>
           </TextLine>
           <TextLine ID="eSc_line_6c1a5962"
+                    TAGREFS="LT8"
                     BASELINE="503 1091 639 1095" 
                     HPOS="499"
                     VPOS="1057"
@@ -469,6 +474,7 @@
                     HEIGHT="54"></String>
           </TextLine>
           <TextLine ID="eSc_line_6723a072"
+                    TAGREFS="LT8"
                     BASELINE="505 1137 674 1137" 
                     HPOS="502"
                     VPOS="1091"
@@ -931,7 +937,7 @@
                    WIDTH="1020"
                    HEIGHT="58"
                    ID="eSc_textblock_50f9ea32"
-                   TAGREFS="BT2534">
+                   TAGREFS="BT2524">
           <Shape><Polygon POINTS="993 2949 993 3007 2013 3007 2013 2949"/></Shape>
           <TextLine ID="line_51"
                     TAGREFS="LT10"
@@ -1002,7 +1008,7 @@
                     WC="0.9786818267570602"></String>
           </TextLine>
           <TextLine ID="eSc_line_ef59e533"
-                    TAGREFS="LT9"
+                    TAGREFS="LT8"
                     BASELINE="704 3440 847 3447" 
                     HPOS="700"
                     VPOS="3364"
