@@ -32,8 +32,8 @@ characters:
   - f
   - g
   - ’
-  - y
   - .
+  - y
   - '&'
   - h
   - b
@@ -42,33 +42,33 @@ characters:
   - ́
   - ̀
   - x
-  - C
   - ̃
-  - E
+  - C
   - ':'
+  - E
   - z
   - R
   - A
   - P
-  - I
   - M
+  - I
   - L
   - S
   - D
   - V
-  - '-'
+  - G
   - F
   - "'"
   - '1'
-  - G
   - B
   - T
   - N
+  - '-'
   - O
   - ̧
   - '2'
-  - ̈
   - '3'
+  - ̈
   - H
   - '5'
   - '4'
@@ -85,59 +85,45 @@ characters:
   - œ
   - '?'
   - Y
-  - Z
   - ;
-  - ι
-  - α
-  - ς
-  - ε
-  - ο
-  - ß
+  - Z
   - '!'
-  - ̂
+  - ß
   - æ
+  - ̂
   - k
   - '*'
-  - η
-  - τ
-  - σ
   - W
+  - K
+  - α
   - U
   - ꝰ
-  - ν
-  - K
-  - ρ
-  - π
-  - υ
+  - ι
   - J
-  - „
+  - ο
+  - ν
+  - ς
   - ¶
   - 
-  - δ
-  - κ
+  - „
   - ꝗ
-  - ·
-  - ω
-  - μ
   - '"'
-  - Τ
-  - θ
-  - λ
+  - μ
+  - »
+  - τ
+  - ε
+  - ρ
+  - β
+  - π
   - ̨
   - ͅ
-  - Æ
-  - ͂
-  - Ι
+  - Τ
+  - ᵒ
   - ̓
-  - »
-  - β
-  - γ
-  - ᗅ
-  - Ε
-  - ꝑ
-  - Μ
-  - ꝯ
-  - Β
+  - δ
+  - η
+  - λ
+  - Æ
   mode: NFD
 description: >-
   Ce dépôt regroupe les données du corpus du projet de recherche CORSAIR,
@@ -170,13 +156,13 @@ time:
 title: 'CORSAIR: OCR dataset'
 url: https://github.com/CORSAIR-La-Popeliniere/segmentation_16thcentury_french_historiography?tab=readme-ov-file#readme
 volume:
-- count: 1093047
+- count: 568416
   metric: characters
-- count: 555
+- count: 287
   metric: files
-- count: 27648
+- count: 14179
   metric: lines
 - count: 800
   metric: pages
-- count: 3605
+- count: 1837
   metric: regions
